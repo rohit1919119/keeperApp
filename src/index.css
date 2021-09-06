@@ -9,11 +9,16 @@
 .headingTitle{
   font-size: 35px;
   margin: 5px 0 0 96px;
+  height : 41px;
 
 }
 .heading{
-  color: blue;
+  color: white;
   box-shadow:0 0 10px 0 rgba(0,0,0,0.3);
+  background-color: #f5f523;
+  height: 78px;
+  display: flex;
+  align-items: center;
 }
 
 .footer{
